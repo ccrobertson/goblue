@@ -1,4 +1,7 @@
 # goblue
 Learning to use github together!
 
-#editing README
+<<<<<<< HEAD
+#editing README from branch_two
+#editing README from master branch
+>>>>>>> master
